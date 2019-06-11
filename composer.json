@@ -1,5 +1,5 @@
 {
-    "name": "rakshit/session",
+    "name": "rtds/multi-session",
     "description": "Trans_SID (Session IDs in URLs) for Laravel 5 Projects",
     "license": "GPL",
     "authors": [
